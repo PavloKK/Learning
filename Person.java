@@ -4,14 +4,14 @@ public class Person {
     protected int age = 0;
     protected String Address  = "n/a";
 
-    public Person(){
+  //  public Person(){
 
-    }
-    public Person(String name, int age){
-     this.name = name;
-     this.age = age;
+  //  }
+  //  public Person(String name, int age){
+  //   this.name = name;
+  //   this.age = age;
 
-    }
+  //  }
 
     public void setName(String n){
        this.name = n;
